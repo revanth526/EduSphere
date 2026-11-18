@@ -96,5 +96,5 @@ EduSphere combines structured curriculum, live sessions, built-in development to
 - **JavaScript (ES6+)**
 
 ---
-contact - rkrevanth2456@gmail.com 
-## 📂 Project Structure
+[contact - rkrevanth2456@gmail.com 
+## 📂 Project Structure](https://eduspherepro.netlify.app/index.html)
